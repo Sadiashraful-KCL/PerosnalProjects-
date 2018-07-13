@@ -122,28 +122,28 @@ class ViewController: UIViewController, PaperOnboardingDataSource {
     }
     
     
-    //    func onboardingConfigurationItem(_: OnboardingContentViewItem, index _: Int) {
-    //        <#code#>
-    //    }
+       func onboardingConfigurationItem(_: OnboardingContentViewItem, index _: Int) {
+           <#code#>
+       }
     
-//    func onboardingWillTransitonToIndex(_ index: Int) {
-//        if index == 1 {
-//            if self.getStartedButton.alpha == 1 {
-//                UIView.animate(withDuration: 0.2, animations: {
-//                    self.getStartedButton.alpha = 0
-//                })
-//            }
-//
-//        }
-//    }
+   func onboardingWillTransitonToIndex(_ index: Int) {
+       if index == 1 {
+           if self.getStartedButton.alpha == 1 {
+               UIView.animate(withDuration: 0.2, animations: {
+                   self.getStartedButton.alpha = 0
+               })
+           }
+
+       }
+   }
     
-//    func onboardingDidTransitonToIndex(_ index: Int) {
-//        if index == 5 {
-//            UIView.animate(withDuration: 0.4, animations: {
-//                self.getStartedButton.alpha = 1
-//            })
-//        }
-//    }
+   func onboardingDidTransitonToIndex(_ index: Int) {
+       if index == 5 {
+           UIView.animate(withDuration: 0.4, animations: {
+               self.getStartedButton.alpha = 1
+           })
+       }
+   }
     
 
     override func didReceiveMemoryWarning() {
