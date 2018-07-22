@@ -32,10 +32,10 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 --TECHNICAL PROJECTS :  
 
 •	Built IOS mobile app in Swift 4 as a project for King's College London (Provides announcements and messages to be send to student phones from university server).
-              -Demonstration : https://www.youtube.com/watch?v=BHUjiviGIBo
+*Demonstration : https://www.youtube.com/watch?v=BHUjiviGIBo
 •	IOS mobile application “CLUB WHEELS”
 Lead a team in partnering with Apple Ltd as a developer in helping students to save money on clubbing by linking them with club promoters.
-             -Demonstration : https://www.youtube.com/watch?v=REDCNSMvMTw
+*Demonstration : https://www.youtube.com/watch?v=REDCNSMvMTw
              
 --WORK HISTORY :
 
