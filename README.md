@@ -16,9 +16,10 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 
 --SKILLS :
 
-•	Github profile : https://github.com/Sadiashraful-KCL/PerosnalProjects-
+•	Github profile : https://github.com/Sadiashraful-KCL/PersonalProjects
 •	Programming Languages : Swift, Java, JavaScript,NodeJS, Scala, C++, HTML,CSS,Haskell, Prolog .
 •	Good knowledge on Agile methodology, Operating Systems and Concurrency, Internet Security and Cryptography.	
+• Slack, Trello, GitHub,Sketch, In Vision.
 
 --Self Study : 
 
@@ -30,12 +31,18 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 •	NodeJs Essential Training:Lynda
 
 --TECHNICAL PROJECTS :  
+•Leading the IOS sub-team and co-leading an entire team of 8 people to build native Android,IOS mobile apps and a backend server in Node.JS for King's College London (Provides announcements and messages to be send to student phones from university server).
+               Responsibilities : 
+              -Working as a full stack IOS engineer (making the mobile platform designs and implementing backend features)
+              -As a scrum master reviewing team's progress after every two week sprint, identify bugs and motivating lagging                  members.
+              -Communicating with the client(KCL Informatics Dept) and SuperVisor, on a regular basis keeping them up to date                with the changes.
+              -Writing reports as a backlog about the team's progress after each meeting every 4 days until the delivery of                  the software.
+              -Adding Custom Animations to the app with IOS UIKIT
+              -Demonstration : https://www.youtube.com/watch?v=ximSr-Xf27U
 
-•	Built IOS mobile app in Swift 4 as a project for King's College London (Provides announcements and messages to be send to student phones from university server).
-*Demonstration : https://www.youtube.com/watch?v=BHUjiviGIBo
-•	IOS mobile application “CLUB WHEELS”
+•IOS mobile application “CLUB WHEELS”
 Lead a team in partnering with Apple Ltd as a developer in helping students to save money on clubbing by linking them with club promoters.
-*Demonstration : https://www.youtube.com/watch?v=REDCNSMvMTw
+              -Demonstration : https://www.youtube.com/watch?v=REDCNSMvMTw
              
 --WORK HISTORY :
 
@@ -43,7 +50,7 @@ Lead a team in partnering with Apple Ltd as a developer in helping students to s
 Software Engineering Intern :
 
 Tech Alchemy – Greater London, England
-•	Build Automated Project Planning software for the internal use of the company using JavaScript and NodeJS.
+•	Build Automated Project Planning software for the internal use of the company using AppScript, Google Forms and Slides.
 •	Developing IOS mobile apps for clients.
 
 * 06/2017 to 09/2017	
@@ -62,15 +69,15 @@ Sydenham After School Club, Sydenham – London
 * 2019	Bachelor of Science: Computer Science
 King's College London - Greater London, England
 Relevant Modules : 
-1.Practical Experiences of Programming (1:1)
-2.Software Engineering (1:1)
-3.Introduction to Artificial Intelligence (1:1)
+1.Practical Experiences of Programming (First Class)
+2.Software Engineering (First Class)
+3.Introduction to Artificial Intelligence (First Class)
 •	Recommendation from Head Teacher: https://mega.nz/#F!wBYz1SaS
 
 * 2016	International Foundation : Science and Engineering 
 Queen Mary University of London - London, UK 
-Achieved Grade : Distinction 
-Relevant Modules: Higher Mathematics 1(1:1), Higher Mathematics 2(1:1), Physics (1:1), Discreet Mathematics (1:1)
+Achieved Grade : First Class 
+Relevant Modules: Higher Mathematics 1(First Class), Higher Mathematics 2(First Class), Physics (First Class), Discreet Mathematics (First Class)
 •	Recommendation : Dr Priscilla Cunnan, Email: p.cunnan@qmul.ac.uk, Telephone: +44 (0)20 7882 2761
 
 --DIVERSE LANE OF PAST CAREER :
