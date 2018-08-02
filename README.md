@@ -32,7 +32,7 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 
 --TECHNICAL PROJECTS :  
 
-•Leading the IOS sub-team and co-leading an entire team of 8 people to build native Android,IOS mobile apps and a backend server in Node.JS for King's College London (Provides announcements and messages to be send to student phones from university server).
+• Leading the IOS sub-team and co-leading an entire team of 8 people to build native Android,IOS mobile apps and a backend server in Node.JS for King's College London (Provides announcements and messages to be send to student phones from university server).
                Responsibilities : 
               Working as a full stack IOS engineer (making the mobile platform designs and implementing backend features).
               As a scrum master reviewing team's progress after every two week sprint, identify bugs and motivating lagging                 members.
@@ -41,7 +41,7 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
               Adding Custom Animations to the app with IOS UIKIT.
              Demonstration : https://www.youtube.com/watch?v=ximSr-Xf27U
 
-•IOS mobile application “CLUB WHEELS”
+• IOS mobile application “CLUB WHEELS”
 Lead a team in partnering with Apple Ltd as a developer in helping students to save money on clubbing by linking them with club promoters.
               -Demonstration : https://www.youtube.com/watch?v=REDCNSMvMTw
              
