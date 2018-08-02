@@ -31,14 +31,15 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 •	NodeJs Essential Training:Lynda
 
 --TECHNICAL PROJECTS :  
+
 •Leading the IOS sub-team and co-leading an entire team of 8 people to build native Android,IOS mobile apps and a backend server in Node.JS for King's College London (Provides announcements and messages to be send to student phones from university server).
                Responsibilities : 
-              -Working as a full stack IOS engineer (making the mobile platform designs and implementing backend features)
-              -As a scrum master reviewing team's progress after every two week sprint, identify bugs and motivating lagging                  members.
-              -Communicating with the client(KCL Informatics Dept) and SuperVisor, on a regular basis keeping them up to date                with the changes.
-              -Writing reports as a backlog about the team's progress after each meeting every 4 days until the delivery of                  the software.
-              -Adding Custom Animations to the app with IOS UIKIT
-              -Demonstration : https://www.youtube.com/watch?v=ximSr-Xf27U
+              Working as a full stack IOS engineer (making the mobile platform designs and implementing backend features).
+              As a scrum master reviewing team's progress after every two week sprint, identify bugs and motivating lagging                 members.
+              Communicating with the client(KCL Informatics Dept) and SuperVisor, on a regular basis keeping them up to date                 with the changes.
+              Writing reports as a backlog about the team's progress after each meeting every 4 days until the delivery of                  the software.
+              Adding Custom Animations to the app with IOS UIKIT.
+             Demonstration : https://www.youtube.com/watch?v=ximSr-Xf27U
 
 •IOS mobile application “CLUB WHEELS”
 Lead a team in partnering with Apple Ltd as a developer in helping students to save money on clubbing by linking them with club promoters.
