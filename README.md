@@ -8,7 +8,7 @@ anyone interested, dont need to look elsewhere to find it.
                                       
 --PROFESSIONAL SUMMARY :    
 
-Passionate, visionary and goal-driven software developer, always ready to try out new aspects of technological improvements.
+Passionate, committed and goal-driven software developer, always ready to try out new aspects of technological improvements.
 Loyal employee to the company sharing the same vision of the employer.Looking forward to professional challenges and willing to take dynamic responsibilities.
 
 •	LinkedIn : https://www.linkedin.com/in/sadi-ashraful/
