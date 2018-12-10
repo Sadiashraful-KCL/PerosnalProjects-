@@ -32,8 +32,8 @@ Loyal employee to the company sharing the same vision of the employer.Looking fo
 
 --TECHNICAL PROJECTS :  
 • My current Individual Project involves machine learning with IBM Watson to build a sophisticated Image Recognition Mobile app for detecting the number of calories from a specific food in real time. The system uses deep Convolutional Neural Network to train the data in a smart way and find inferencing patterns to reach a conclusion.
-  • Demonstration: https://www.youtube.com/watch?v=3Zv9-qcwR20&feature=youtu.be (Apologies for the low resolution cap of YouTube)
-  • Github: https://github.com/Sadiashraful-KCL/CalorieTracker.ai
+    • Demonstration: https://www.youtube.com/watch?v=3Zv9-qcwR20&feature=youtu.be (Apologies for the low resolution cap of YouTube)
+    • Github: https://github.com/Sadiashraful-KCL/CalorieTracker.ai
 
 • Leading the IOS sub-team and co-leading an entire team of 8 people to build native Android,IOS mobile apps and a backend server in Node.JS for King's College London (Provides announcements and messages to be send to student phones from university server).
                Responsibilities : 
