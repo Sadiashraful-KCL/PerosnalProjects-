@@ -50,7 +50,7 @@ Lead a team in partnering with Apple Ltd as a developer in helping students to s
              
 --WORK HISTORY :
 
-* 06/2018 to Current	
+* 06/2018 to 09/2018	
 Software Engineering Intern :
 
 Tech Alchemy – Greater London, England
